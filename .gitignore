@@ -4,6 +4,11 @@
 *.dll
 *.so
 *.dylib
+*.iml
+*.ipr
+*.iws
+.idea/*
+logs/*
 
 # Test binary, built with `go test -c`
 *.test
